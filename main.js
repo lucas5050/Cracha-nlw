@@ -12,7 +12,7 @@ const Links_Social_Media = {
       
       li.children[0].href = `https://${social}.com/${Links_Social_Media[social]}`         
       
-      //User_Name.textContent = 'Lucas Pascoal de Lima'
+      // User_Name.textContent = 'Lucas Pascoal de Lima'
     }
 }
 
@@ -25,11 +25,11 @@ function getGitHubProfileInfos() {
    fetch(url)
    .then(response => response.json())
    .then(data => {
-      // User_Name.textContent = data.name
-      // User_Bio.textContent = data.bio
-      // User_GitHub.href = data.html_url
-      // User_Image.src = data.avatar_url
-      // User_Login.textContent = data.login
+     // User_Name.textContent = data.name
+     // User_Bio.textContent = data.bio
+     // User_GitHub.href = data.html_url
+     // User_Image.src = data.avatar_url
+     // User_Login.textContent = data.login
    })
 
 }
