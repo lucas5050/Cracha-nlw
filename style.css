@@ -14,8 +14,8 @@ body {
     --grey: hsl(0, 0%, 97%);
     
     
-    width: 380;
-    height: 810;
+    width: 380%;
+    height: 810%;
     margin-top: 10;
     margin-right: 10;
     font-family: 'Roboto', sans-serif;
