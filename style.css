@@ -14,7 +14,7 @@ body {
     --grey: hsl(0, 0%, 97%);
     
     height: 100%;
-    
+    width: 100%;
 
 
     font-family: 'Roboto', sans-serif;
@@ -31,15 +31,14 @@ main {
     
     width: 375px;  
     height: 812px;
-
     
     
 }
 
 .container {
-    max-width: 250px;
+    max-width: 175px;
     margin-right: auto;
-    margin-left: auto
+    margin-left: auto;
 
 
 
