@@ -35,6 +35,7 @@ main {
 }
 
 .container {
+    max-zoom: 50;
     max-width: 50rem;
     margin-left: 108px;
     margin-right: auto;
