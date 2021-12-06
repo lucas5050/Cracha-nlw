@@ -13,7 +13,6 @@ body {
     --black: hsl(240, 9%, 13%);
     --grey: hsl(0, 0%, 97%);
     
-
     height: 100%;
 
 
@@ -36,6 +35,8 @@ main {
 
 .container {
     max-width: 175px;
+    max-height: 100px;
+    
     margin-right: auto;
     margin-left: auto;
 
