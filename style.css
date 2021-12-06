@@ -1,7 +1,7 @@
 * {
 
     margin: 0;
-
+    
 
 }
 html,
@@ -14,6 +14,7 @@ body {
     --grey: hsl(0, 0%, 97%);
     
     height: 100%;
+    width: 100%;
 
 
     font-family: 'Roboto', sans-serif;
@@ -22,15 +23,7 @@ body {
 
 body {
     display: grid;
-    place-items: center;
-    width: 108px;
-    height: 200px;
-    margin-top: 1px;
-    margin-right: 1px;
-    margin-bottom: 1px;
-    margin-left: 40px;
-
-        
+    place-items: center;    
 }
 
 main {
@@ -39,11 +32,11 @@ main {
     width: 375px;  
     height: 812px;
     
+    
 }
 
 .container {
-    max-width: 250px;
- 
+    max-width: 800px;
     margin-right: auto;
     margin-left: auto;
 
