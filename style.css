@@ -27,16 +27,15 @@ body {
 
 main {
     background: url(imagens/Mobile.svg) ;
-    width: 375px;  
-    height: 812px
+    width: 375rem;  
+    height: 812rem
 
     
 
 }
 
 .container {
-    max-zoom: 50;
-    max-width: 50rem;
+    max-width: 250px;
     margin-left: 108px;
     margin-right: auto;
     margin-top: 184px;
