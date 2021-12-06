@@ -1,6 +1,7 @@
 * {
 
     margin: 0;
+    
 
 }
 html,
@@ -13,7 +14,8 @@ body {
     --grey: hsl(0, 0%, 97%);
 
 
-    height: 100%;
+    height: 15vh;
+    width: 15vh;
     font-family: 'Roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
@@ -33,7 +35,7 @@ main {
 }
 
 .container {
-    max-width: 600px;
+    max-width: 250px;
     margin-left: 108px;
     margin-right: auto;
     margin-top: 184px;
