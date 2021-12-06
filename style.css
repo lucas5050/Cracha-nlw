@@ -27,8 +27,9 @@ body {
 
 main {
     background: url(imagens/Mobile.svg) ;
-    width: 375rem;  
-    height: 812rem
+    zoom: 50;
+    width: 375px;  
+    height: 812px
 
     
 
