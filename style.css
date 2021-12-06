@@ -1,7 +1,7 @@
 * {
 
-    margin-top: 0;
-   
+    margin: 0;
+    
 
 }
 html,
@@ -22,13 +22,13 @@ body {
 }
 
 body {
-
     display: grid;
     place-items: center;    
 }
 
 main {
-    background: url(imagens/Mobile.svg);   
+    background: url(imagens/Mobile.svg) ;
+    
     width: 375px;  
     height: 812px;
     
@@ -38,6 +38,8 @@ main {
     max-width: 175px;
     margin-left: auto;
     margin-right: auto;
+
+
     text-align: center;
     color: var(--grey)
 }  
