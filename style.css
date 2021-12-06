@@ -34,9 +34,8 @@ main {
 }
 
 .container {
-    max-width: 250px;
-
-    
+    max-width: 600px;
+ 
     margin-right: auto;
     margin-left: auto;
 
