@@ -34,7 +34,7 @@ main {
 }
 
 .container {
-    max-width: 600px;
+    max-width: 175px;
  
     margin-right: auto;
     margin-left: auto;
@@ -67,13 +67,17 @@ main {
 
 h1 {
     font-size: 1.4rem;
+
+    margin-top: 1.5rem
+
+
 }
 
 a {
     color: var(--grey);
     text-decoration: none;
     
-    margin: 0.25rem;
+    margin-top: 0.25rem;
 
     display: flex;
     gap: 0.75rem;
@@ -85,12 +89,11 @@ a {
 p{
     font-size: 0.80rem;
 
-    margin: 2rem;
-
+    margin-top: 2rem;
 }
 
 ul {
-    margin: 4rem;
+    margin-top: 4rem;
 
     list-style: none;
     padding: 0;
