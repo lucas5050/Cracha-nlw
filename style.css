@@ -13,7 +13,7 @@ body {
     --black: hsl(240, 9%, 13%);
     --grey: hsl(0, 0%, 97%);
     
-    max-width: 50rem;
+    
     height: 100%;
     width: 100%;
     font-family: 'Roboto', sans-serif;
@@ -35,7 +35,7 @@ main {
 }
 
 .container {
-    max-width: 250px;
+    max-width: 50rem;
     margin-left: 108px;
     margin-right: auto;
     margin-top: 184px;
