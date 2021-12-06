@@ -24,7 +24,12 @@ body {
     display: grid;
     place-items: center;
     width: 380px;
-    height: 810px;    
+    height: 810px;
+    margin-top: 1px;
+    margin-right: -5;
+    margin-bottom: 1px;
+    margin-left: 40;
+        
 }
 
 main {
