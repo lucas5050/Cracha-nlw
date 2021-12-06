@@ -34,8 +34,8 @@ main {
 }
 
 .container {
-    max-width: 175px;
-    max-height: 100px;
+    max-width: 250px;
+
     
     margin-right: auto;
     margin-left: auto;
@@ -47,7 +47,7 @@ main {
 }  
 .avatar{
     width: 10rem;
-    margin-top: 11.5rem auto 0;
+    margin: 11.5rem auto 0;
 
     position: relative;
 }
