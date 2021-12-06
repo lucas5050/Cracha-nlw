@@ -14,8 +14,10 @@ body {
     --grey: hsl(0, 0%, 97%);
     
     
-    height: 100%;
-    width: 100%;
+    width: 380;
+    height: 810;
+    margin-top: 10;
+    margin-right: 10;
     font-family: 'Roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
@@ -27,19 +29,16 @@ body {
 
 main {
     background: url(imagens/Mobile.svg) ;
-    zoom: 50;
-    width: 375px;  
-    height: 812px
-
     
-
+    width: 375px;  
+    height: 812px;
 }
 
 .container {
-    max-width: 250px;
+    max-width: 500px;
     margin-left: 108px;
-    margin-right: auto;
-    margin-top: 184px;
+
+    margin-top: 182px;
     text-align: center;
     color: var(--grey)
 }  
